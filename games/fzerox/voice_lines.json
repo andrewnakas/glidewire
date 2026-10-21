@@ -1,0 +1,20 @@
+{
+  "_note": "Spoken sample slots and OUR lines for them (Glidewire's own wording; the slot's job is the only kept fact). who: announcer | maxvolume (the race-control host). Crowd cheers/screams (Sample53/54/64/68) are designed sound effects.",
+  "aAudioSoundFontSESample28": {"text": "Three!", "who": "announcer"},
+  "aAudioSoundFontSESample29": {"text": "Two!", "who": "announcer"},
+  "aAudioSoundFontSESample30": {"text": "One!", "who": "announcer"},
+  "aAudioSoundFontSESample31": {"text": "Launch!", "who": "announcer"},
+  "aAudioSoundFontSESample34": {"text": "Boost is live!", "who": "announcer"},
+  "aAudioSoundFontSESample35": {"text": "Sweet lap!", "who": "announcer"},
+  "aAudioSoundFontSESample47": {"text": "New best time, nice!", "who": "announcer"},
+  "aAudioSoundFontSESample49": {"text": "Ouch. Craft lost.", "who": "announcer"},
+  "aAudioSoundFontSESample52": {"text": "Number one!", "who": "announcer"},
+  "aAudioSoundFontSESample57": {"text": "Smooth flying!", "who": "announcer"},
+  "aAudioSoundFontSESample58": {"text": "Heads up behind you!", "who": "announcer"},
+  "aAudioSoundFontSESample59": {"text": "Big lead, keep pushing!", "who": "announcer"},
+  "aAudioSoundFontSESample61": {"text": "Brilliant!", "who": "announcer"},
+  "aAudioSoundFontSESample62": {"text": "Turn around, wrong way!", "who": "announcer"},
+  "aAudioSoundFontSESample70": {"text": "Top of the pack!", "who": "announcer"},
+  "aAudioSoundFontSESample2": {"text": "Jackpot! Ha ha!", "who": "maxvolume"},
+  "aAudioSoundFontSESample48": {"text": "Catch you next time! Ha ha!", "who": "maxvolume"}
+}

@@ -1,0 +1,282 @@
+{
+ "note": "short hashes of retail RSP microcode segments (no retail bytes)",
+ "entries": [
+  {
+   "family": "aspmain",
+   "seg": "data",
+   "version": 0,
+   "flags": [],
+   "size": 704,
+   "w": 0,
+   "h64": "c902e0d007b9246b",
+   "h": "41dde0cb13c3",
+   "symbol": "aspMain"
+  },
+  {
+   "family": "aspmain",
+   "seg": "text",
+   "version": 0,
+   "flags": [],
+   "size": 3616,
+   "w": 0,
+   "h64": "a656fd0e6c9408f3",
+   "h": "21e05bb9b4b3",
+   "symbol": "aspMain"
+  },
+  {
+   "family": "boot",
+   "seg": "boot",
+   "version": 0,
+   "flags": [],
+   "size": 208,
+   "w": 0,
+   "h64": "521cba218b2cbffb",
+   "h": "9a9289d6ccdb",
+   "symbol": "rspboot"
+  },
+  {
+   "family": "f3dex",
+   "seg": "data",
+   "version": 0,
+   "flags": [
+    "fifo",
+    "rej"
+   ],
+   "size": 944,
+   "w": 288,
+   "h64": "a12b639b85a2bf35",
+   "h": "27a91cb69ca6",
+   "symbol": "f3dflx2"
+  },
+  {
+   "family": "f3dex",
+   "seg": "data",
+   "version": 95,
+   "flags": [],
+   "size": 2048,
+   "w": 0,
+   "h64": "2202b808581f290b",
+   "h": "ad7de53a5b54",
+   "symbol": "F3DLX"
+  },
+  {
+   "family": "f3dex",
+   "seg": "data",
+   "version": 95,
+   "flags": [],
+   "size": 2048,
+   "w": 0,
+   "h64": "00bd299f560affc0",
+   "h": "e7f95b2aa46a",
+   "symbol": "F3DEX"
+  },
+  {
+   "family": "f3dex",
+   "seg": "text",
+   "version": 0,
+   "flags": [
+    "fifo",
+    "rej"
+   ],
+   "size": 4496,
+   "w": 0,
+   "h64": "88228ccccbc68bae",
+   "h": "dea754cc8ba5",
+   "symbol": "f3dflx2"
+  },
+  {
+   "family": "f3dex",
+   "seg": "text",
+   "version": 95,
+   "flags": [],
+   "size": 5136,
+   "w": 0,
+   "h64": "277e6211f9df0922",
+   "h": "b66a42f443b4",
+   "symbol": "F3DLX"
+  },
+  {
+   "family": "f3dex",
+   "seg": "text",
+   "version": 95,
+   "flags": [],
+   "size": 5088,
+   "w": 0,
+   "h64": "ece33bafc20240eb",
+   "h": "d4e953697521",
+   "symbol": "F3DEX"
+  },
+  {
+   "family": "f3dex2",
+   "seg": "data",
+   "version": 203,
+   "flags": [
+    "fifo"
+   ],
+   "size": 1056,
+   "w": 288,
+   "h64": "bc669f803e689780",
+   "h": "757ddc19c75b",
+   "symbol": "f3dex2"
+  },
+  {
+   "family": "f3dex2",
+   "seg": "data",
+   "version": 208,
+   "flags": [
+    "fifo"
+   ],
+   "size": 1056,
+   "w": 288,
+   "h64": "9964ec7772e9bb9d",
+   "h": "ac52e46145a3",
+   "symbol": "f3dex2"
+  },
+  {
+   "family": "f3dex2",
+   "seg": "text",
+   "version": 203,
+   "flags": [
+    "fifo"
+   ],
+   "size": 4976,
+   "w": 0,
+   "h64": "45531670c7c5e06d",
+   "h": "3bd5c9d66254",
+   "symbol": "f3dex2"
+  },
+  {
+   "family": "f3dex2",
+   "seg": "text",
+   "version": 208,
+   "flags": [
+    "fifo"
+   ],
+   "size": 5008,
+   "w": 0,
+   "h64": "aca9d931f4ea12a5",
+   "h": "4cb430ef48b5",
+   "symbol": "f3dex2"
+  },
+  {
+   "family": "f3dex2_rej",
+   "seg": "data",
+   "version": 203,
+   "flags": [
+    "fifo",
+    "rej"
+   ],
+   "size": 1040,
+   "w": 288,
+   "h64": "d1351f04dc0e97ea",
+   "h": "3a92b94881de",
+   "symbol": "f3dlx2"
+  },
+  {
+   "family": "f3dex2_rej",
+   "seg": "text",
+   "version": 203,
+   "flags": [
+    "fifo",
+    "rej"
+   ],
+   "size": 4496,
+   "w": 0,
+   "h64": "2d6f9dba2538c310",
+   "h": "4d4639454a83",
+   "symbol": "f3dlx2"
+  },
+  {
+   "family": "l3dex2",
+   "seg": "data",
+   "version": 203,
+   "flags": [
+    "fifo"
+   ],
+   "size": 1008,
+   "w": 288,
+   "h64": "da5915c677005c51",
+   "h": "9f8f1bbae2e1",
+   "symbol": "l3dex2"
+  },
+  {
+   "family": "l3dex2",
+   "seg": "text",
+   "version": 203,
+   "flags": [
+    "fifo"
+   ],
+   "size": 4496,
+   "w": 0,
+   "h64": "e62878f187341dc9",
+   "h": "1f1956468071",
+   "symbol": "l3dex2"
+  },
+  {
+   "family": "nead_fz",
+   "seg": "data",
+   "version": 0,
+   "flags": [],
+   "size": 736,
+   "w": 0,
+   "h64": "2f3d762f3a020915",
+   "h": "97adeb2e16b6",
+   "symbol": "aspmain"
+  },
+  {
+   "family": "nead_fz",
+   "seg": "text",
+   "version": 0,
+   "flags": [],
+   "size": 3376,
+   "w": 0,
+   "h64": "c74d7fbe8d760f3e",
+   "h": "6364ba8a23c9",
+   "symbol": "aspmain"
+  },
+  {
+   "family": "nead_mk",
+   "seg": "data",
+   "version": 0,
+   "flags": [],
+   "size": 768,
+   "w": 0,
+   "h64": "0fa49fe92a703f71",
+   "h": "8e2ef10a70be",
+   "symbol": "aspMain"
+  },
+  {
+   "family": "nead_mk",
+   "seg": "text",
+   "version": 0,
+   "flags": [],
+   "size": 3184,
+   "w": 0,
+   "h64": "2dc892ef07e3e162",
+   "h": "7016e01c0388",
+   "symbol": "aspMain"
+  },
+  {
+   "family": "s2dex",
+   "seg": "data",
+   "version": 107,
+   "flags": [],
+   "size": 960,
+   "w": 280,
+   "h64": "b3526ed9aa2cc73d",
+   "h": "abcc3728e8d6",
+   "symbol": "s2dex"
+  },
+  {
+   "family": "s2dex",
+   "seg": "text",
+   "version": 107,
+   "flags": [],
+   "size": 6128,
+   "w": 0,
+   "h64": "9d8ae0e826f380a5",
+   "h": "428d95e20367",
+   "symbol": "s2dex"
+  }
+ ]
+}

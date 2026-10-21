@@ -1,0 +1,11 @@
+{
+ "note": "RSP microcode as structural facts only: family, version, flags and segment sizes (cleanroom.ucode learn on the dirty side). generate.py writes CRUCODE1 placeholder stubs; no retail microcode is used. Needs an emulator core patched for the tags (n64cleanrecomp ports/emu/ucode-tags).",
+ "ucode": [
+  {"name": "rspboot", "family": "boot", "text": 208, "files": {"text": "rsp/rspboot.textbin.bin"}},
+  {"name": "aspmain", "family": "nead_fz", "text": 3376, "data": 736, "files": {"text": "rsp/aspmain.textbin.bin", "data": "rsp/aspmain.databin.bin"}},
+  {"name": "f3dex2", "family": "f3dex2", "version": "2.03", "flags": ["fifo"], "text": 4976, "data": 1056, "files": {"text": "rsp/f3dex2.textbin.bin", "data": "rsp/f3dex2.databin.bin"}},
+  {"name": "f3dlx2", "family": "f3dex2_rej", "version": "2.03", "flags": ["fifo", "rej"], "text": 4496, "data": 1040, "files": {"text": "rsp/f3dlx2.textbin.bin", "data": "rsp/f3dlx2.databin.bin"}},
+  {"name": "f3dflx2", "family": "f3dex2_rej", "version": "2.03", "flags": ["fifo", "rej"], "text": 4496, "data": 944, "files": {"text": "rsp/f3dflx2.textbin.bin", "data": "rsp/f3dflx2.databin.bin"}},
+  {"name": "l3dex2", "family": "l3dex2", "version": "2.03", "flags": ["fifo"], "text": 4496, "data": 1008, "files": {"text": "rsp/l3dex2.textbin.bin", "data": "rsp/l3dex2.databin.bin"}}
+ ]
+}

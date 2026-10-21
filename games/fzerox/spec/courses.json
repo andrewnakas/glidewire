@@ -1,0 +1,287 @@
+{
+ "note": "Per course slot: which venue/skybox/music the code loads; layouts are ours (trackgen.py)",
+ "slots": [
+  {
+   "name": "aCourseMuteCity1",
+   "venue": 0,
+   "skybox": 0,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 23,
+   "cpu_array": "D_F264110",
+   "cpu_len": 100
+  },
+  {
+   "name": "aCourseSilence1",
+   "venue": 9,
+   "skybox": 4,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 32,
+   "cpu_array": "D_F264340",
+   "cpu_len": 136
+  },
+  {
+   "name": "aCourseSandOcean1",
+   "venue": 3,
+   "skybox": 2,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 28,
+   "cpu_array": "D_F264450",
+   "cpu_len": 120
+  },
+  {
+   "name": "aCourseDevilsForest1",
+   "venue": 4,
+   "skybox": 5,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 43,
+   "cpu_array": "D_F2641D8",
+   "cpu_len": 180
+  },
+  {
+   "name": "aCourseBigBlue1",
+   "venue": 2,
+   "skybox": 7,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 20,
+   "cpu_array": "D_F264690",
+   "cpu_len": 88
+  },
+  {
+   "name": "aCoursePortTown1",
+   "venue": 1,
+   "skybox": 6,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 40,
+   "cpu_array": "D_F264540",
+   "cpu_len": 168
+  },
+  {
+   "name": "aCourseSectorAlpha",
+   "venue": 6,
+   "skybox": 5,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 37,
+   "cpu_array": "D_F264920",
+   "cpu_len": 156
+  },
+  {
+   "name": "aCourseRedCanyon1",
+   "venue": 7,
+   "skybox": 7,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 22,
+   "cpu_array": "D_F264860",
+   "cpu_len": 96
+  },
+  {
+   "name": "aCourseDevilsForest2",
+   "venue": 4,
+   "skybox": 6,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 34,
+   "cpu_array": "D_F264740",
+   "cpu_len": 144
+  },
+  {
+   "name": "aCourseMuteCity2",
+   "venue": 0,
+   "skybox": 4,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 42,
+   "cpu_array": "D_F264C80",
+   "cpu_len": 176
+  },
+  {
+   "name": "aCourseBigBlue2",
+   "venue": 2,
+   "skybox": 3,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 38,
+   "cpu_array": "D_F264B40",
+   "cpu_len": 160
+  },
+  {
+   "name": "aCourseWhiteLand1",
+   "venue": 5,
+   "skybox": 0,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 37,
+   "cpu_array": "D_F2652B0",
+   "cpu_len": 156
+  },
+  {
+   "name": "aCourseFireField",
+   "venue": 8,
+   "skybox": 6,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 35,
+   "cpu_array": "D_F264DE0",
+   "cpu_len": 148
+  },
+  {
+   "name": "aCourseSilence2",
+   "venue": 9,
+   "skybox": 1,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 51,
+   "cpu_array": "D_F264F08",
+   "cpu_len": 212
+  },
+  {
+   "name": "aCourseSectorBeta",
+   "venue": 6,
+   "skybox": 7,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 33,
+   "cpu_array": "D_F2650B0",
+   "cpu_len": 140
+  },
+  {
+   "name": "aCourseRedCanyon2",
+   "venue": 7,
+   "skybox": 2,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 27,
+   "cpu_array": "D_F2651C8",
+   "cpu_len": 116
+  },
+  {
+   "name": "aCourseWhiteLand2",
+   "venue": 5,
+   "skybox": 0,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 27,
+   "cpu_array": "D_F264A58",
+   "cpu_len": 116
+  },
+  {
+   "name": "aCourseMuteCity3",
+   "venue": 0,
+   "skybox": 5,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 63,
+   "cpu_array": "D_F2656C8",
+   "cpu_len": 260
+  },
+  {
+   "name": "aCourseRainbowRoad",
+   "venue": 2,
+   "skybox": 4,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 49,
+   "cpu_array": "D_F265530",
+   "cpu_len": 204
+  },
+  {
+   "name": "aCourseDevilsForest3",
+   "venue": 4,
+   "skybox": 5,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 48,
+   "cpu_array": "D_F2659E0",
+   "cpu_len": 200
+  },
+  {
+   "name": "aCourseSpacePlant",
+   "venue": 6,
+   "skybox": 3,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 32,
+   "cpu_array": "D_F2658D0",
+   "cpu_len": 136
+  },
+  {
+   "name": "aCourseSandOcean2",
+   "venue": 3,
+   "skybox": 6,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 49,
+   "cpu_array": "D_F265B70",
+   "cpu_len": 204
+  },
+  {
+   "name": "aCoursePortTown2",
+   "venue": 1,
+   "skybox": 4,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 39,
+   "cpu_array": "D_F2653E8",
+   "cpu_len": 164
+  },
+  {
+   "name": "aCourseBigHand",
+   "venue": 4,
+   "skybox": 7,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 44,
+   "cpu_array": "D_F265D08",
+   "cpu_len": 188
+  },
+  {
+   "name": "aCourseBattle",
+   "venue": 6,
+   "skybox": 6,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 15
+  },
+  {
+   "name": "aCourseEnding",
+   "venue": 10,
+   "skybox": 4,
+   "bgm": 0,
+   "creator": 4,
+   "flag": 1,
+   "count": 48
+  }
+ ]
+}

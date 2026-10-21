@@ -1,0 +1,3 @@
+pass 3: 363 slices of game code/data compiled from decomp C/asm blanked before the ROM scan (e.g. leo_fault.c carries a font table that libleo's getaadr blob also contains)
+scanned 1592 textures/TLUTs (+MIO0 literals, +decoded), 72 samples (ADPCM, PCM, books), 38 masks, fault font; the whole clean ROM vs retail course data, staff ghosts, CPU guidance, RSP microcode, IPL3, libleo blobs; 194 streams with short coincidental matches; 0 failing (run >= 32 B)
+structure kept, not scanned: soundfont layout (books regenerated), audio_seq sound-effect sequences, display-list topology (machgeo), game code (compiled from the decomp; see ORIGINALITY.md code check)
